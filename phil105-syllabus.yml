@@ -126,6 +126,6 @@ sansfont: Optima
 fontsize: 11pt
 lang: English
 geometry: letterpaper, textwidth=6in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in
-header-color: \#000000
+header-color: \#aa0101
 classnumber: PHIL 105
 ---
